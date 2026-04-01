@@ -1,0 +1,3 @@
+La idea del proyecto es una aplicación web diseñada para ofrecer un control total sobre las finanzas personales en soles. A través de una interfaz intuitiva, 
+el usuario puede organizar su presupuesto mediante la categorización de sus movimientos diarios. El sistema organiza la información para presentar resúmenes
+claros, permitiendo identificar patrones de gasto y optimizar el ahorro de manera efectiva.
